@@ -15,4 +15,4 @@
 * [Rails 做微信支付的二维码扫码支付](https://1c7.me/rails-wechat-pay-tutorial/)
 
 ### 论坛
-* [Paybase](https://paybase.cn/): Paybase 是个讨论支付的, 任何支付相关话题都可以聊
+* [Paybase](https://paybase.cn/): Paybase 是个讨论支付的论坛
